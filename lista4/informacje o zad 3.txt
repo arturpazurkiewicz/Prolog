@@ -1,0 +1,14 @@
+Uwaga odnośnie zadania 3:
+Są 2 algorytmy, jeden szybki ale nie daje idealnych rezultatów,
+	mianowicie nie wygeneruje 
+		+---+---+---+
+		|   |   |   |   
+		+   +   +---+
+		|           |   
+		+   +   +   +
+		|           |   
+		+---+---+---+
+		ponieważ występuje część nie należąca do żadnego z kwadratów.
+
+Drugi algorytm jest w stanie wygenerować dowolny rezultat, ale przez swoją budowę jest stosunkowo wolny.
+
